@@ -5,4 +5,4 @@ project(
   VERSION 1.0
   LANGUAGES CXX)
 
-add_executable(MyExample src/fail.cpp)
+add_executable(MyExample src/BufferOverflow.cpp)
